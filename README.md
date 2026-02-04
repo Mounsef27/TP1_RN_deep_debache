@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # TP1 — Algorithme de rétro-propagation de l’erreur (MNIST)
 
 Implémentation **from scratch (NumPy)** de :
